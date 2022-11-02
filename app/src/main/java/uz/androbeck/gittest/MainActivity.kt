@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //sanjar
         //sanjar master
+        //sanjar master aaaa
     }
 }
