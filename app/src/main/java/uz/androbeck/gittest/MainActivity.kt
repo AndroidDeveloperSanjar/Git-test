@@ -15,5 +15,19 @@ class MainActivity : AppCompatActivity() {
 
         ////////////////////dfsfsdfdsfsdfsd
         //////////////////////2132432434534543543
+
+        //sanjar commit
+
+        //sanjar a
+
+        //sanjar b
+
+        //adfga
+
+        helloWorld()
+    }
+
+    fun helloWorld(){
+        //helloWorld
     }
 }
